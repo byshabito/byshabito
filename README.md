@@ -1,4 +1,4 @@
-**I am a developer making [CB apps](/cb-apps) and custom bios for models on CB.**
+**I am a developer making [CB apps](/cb-apps.md) and custom bios for models on CB.**
 
 If you would like a custom bio, just message me for more information:
 
