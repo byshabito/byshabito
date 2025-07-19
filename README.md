@@ -3,8 +3,8 @@
 If you would like a custom bio or app, just message me for more information:
 
 - Email [shabito+contact@slmail.me](mailto:shabito+contact@slmail.me)
-- X [@shabito_dev](https://x.com/shabito_dev)
-- Instagram [@shabito_dev](https://instagram.com/shabito_dev)
+- X [@by_shabito](https://x.com/by_shabito)
+- Instagram [@by_shabito](https://instagram.com/by_shabito)
 
 Find all my links [here](https://linktr.ee/shabito).
 
