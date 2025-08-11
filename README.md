@@ -10,4 +10,6 @@ Find all my links [here](https://linktr.ee/shabito).
 
 If you like what I do and want to support me, it would mean a lot to me :)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/shabito/tip)
+Bitcoin Lightning Address:
+
+⚡`shabito@walletofsatoshi.com`
