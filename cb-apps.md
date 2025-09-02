@@ -1,5 +1,20 @@
 # CB Apps
 
+## ShowMoji
+
+[![ShowMoji version][showmoji-version-badge]][showmoji-app-link] ![ShowMoji users][showmoji-users-badge] ![ShowMoji favorites][showmoji-favs-badge] ![ShowMoji stars][showmoji-stars-badge]
+
+_ShowMoji_ adds a small badge to the beginning of your room subject. This badge automatically updates to reflect your current room status.
+
+[showmoji-version-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F57d31a05-0000-0000-0000-000000000000&query=latest.version&style=flat&label=version&color=brightgreen
+[showmoji-users-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F57d31a05-0000-0000-0000-000000000000&query=currentUsers&style=flat&label=users&color=blue
+[showmoji-stars-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F57d31a05-0000-0000-0000-000000000000%2Freviews&query=app.ratingAvg&suffix=%2F5&style=flat&label=stars&color=yellow
+[showmoji-favs-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F57d31a05-0000-0000-0000-000000000000&query=numFavorites&style=flat&label=favorites&color=red
+
+[showmoji-app-link]: https://chaturbate.com/v2apps/apps/57d31a05-showmoji
+
+
+
 ## FollowMeter
 
 [![FollowMeter version][followmeter-version-badge]][followmeter-app-link] ![FollowMeter users][followmeter-users-badge] ![FollowMeter favorites][followmeter-favs-badge] ![FollowMeter stars][followmeter-stars-badge]
