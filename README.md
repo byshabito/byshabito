@@ -1,10 +1,10 @@
-**I am a developer making [apps](/cb-apps.md) and bios for CB.**
+**I am a developer making [apps](/cb-apps.md), [bios](/cb-bios.md) and tools for CB.**
 
 If you would like a custom bio or app, just message me for more information:
 
-- Email [contact@shabito.slmail.me](mailto:contact@shabito.slmail.me)
-- X [@by_shabito](https://x.com/by_shabito)
-- Instagram [@by_shabito](https://instagram.com/by_shabito)
+- ✉️ Email [hello@shabito.net](mailto:hello@shabito.net)
+- 𝕏 X/Twitter [@byshabito](https://x.com/byshabito)
+- 📷 Instagram [@by_shabito](https://instagram.com/by_shabito)
 
 Find all my links [here](https://linktr.ee/shabito).
 
