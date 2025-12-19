@@ -27,17 +27,3 @@ _FollowMeter_ tracks follower growth in real time.
 
 [followmeter-app-link]: https://chaturbate.com/v2apps/apps/4fc060e7-followmeter
 [followmeter-users-link]: https://chaturbate.com/app/4fc060e7-followmeter
-
-## [Menuless][menuless-app-link]
-
-[![Menuless version][menuless-version-badge]][menuless-app-link] [![Menuless users][menuless-users-badge]][menuless-users-link] [![Menuless favorites][menuless-favs-badge]][menuless-app-link] [![Menuless stars][menuless-stars-badge]][menuless-app-link]
-
-_Menuless_ informs viewers the broadcaster doesn't use a tip menu.
-
-[menuless-version-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F3341b550-0000-0000-0000-000000000000&query=latest.version&style=flat&label=version&color=brightgreen
-[menuless-users-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F3341b550-0000-0000-0000-000000000000&query=currentUsers&style=flat&label=users&color=blue
-[menuless-stars-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F3341b550-0000-0000-0000-000000000000%2Freviews&query=app.ratingAvg&suffix=%2F5&style=flat&label=stars&color=yellow
-[menuless-favs-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F3341b550-0000-0000-0000-000000000000&query=numFavorites&style=flat&label=favorites&color=red
-
-[menuless-app-link]: https://chaturbate.com/v2apps/apps/3341b550-menuless
-[menuless-users-link]: https://chaturbate.com/app/3341b550-menuless
