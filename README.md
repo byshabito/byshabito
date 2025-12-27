@@ -1,18 +1,18 @@
-**I am a developer creating [apps](/cb-apps.md), [bios](/cb-bios.md) and tools for CB.**
+# Hello, I’m Shabito
 
-Do you want your custom bio or app? Just message me for more information:
+Developer of CB-focused [apps](/cb-apps.md), [bios](/cb-bios.md) & tools.
 
-- Email: [hello@shabito.net](mailto:hello@shabito.net)
-- X/Twitter: [@byshabito](https://x.com/byshabito)
-- Instagram: [@by_shabito](https://instagram.com/by_shabito)
+Need something tailor-made? Let’s talk.
 
-All my links: [linktr.ee/shabito](https://linktr.ee/shabito)
+## Contact
 
-If you enjoy my work and want to support it, I’d truly appreciate it 💜
+- **Email** hello@shabito.net  
+- **X / Twitter** [@byShabito](https://x.com/byshabito)  
+- **Instagram** [@by_shabito](https://instagram.com/by_shabito)  
+- **All links** [linktr.ee/shabito](https://linktr.ee/shabito)
 
-<a href="https://www.buymeacoffee.com/shabito" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
-</a>
+## Support
 
-⚡ Bitcoin Lightning Address  
-`shabito@walletofsatoshi.com`
+If you find my work useful, consider supporting it. Your contribution helps me keep building. I appreciate your support 💜
+
+☕ [Buy Me a Coffee](https://www.buymeacoffee.com/shabito) • ⚡ Bitcoin (LN) `shabito@walletofsatoshi.com`
