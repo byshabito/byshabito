@@ -1,10 +1,10 @@
-# [CB Apps](https://chaturbate.com/v2apps/app-list/author/shabito)
+# CB Apps 
 
-## [ShowMoji][showmoji-app-link]
+### ShowMoji [![ShowMoji version][showmoji-version-badge]][showmoji-app-link] [![ShowMoji users][showmoji-users-badge]][showmoji-users-link] [![ShowMoji favorites][showmoji-favs-badge]][showmoji-app-link] [![ShowMoji stars][showmoji-stars-badge]][showmoji-reviews-link]
 
-[![ShowMoji version][showmoji-version-badge]][showmoji-app-link] [![ShowMoji users][showmoji-users-badge]][showmoji-users-link] [![ShowMoji favorites][showmoji-favs-badge]][showmoji-app-link] [![ShowMoji stars][showmoji-stars-badge]][showmoji-app-link]
+Rotating hashtags and room-status indicator badges.
 
-_ShowMoji_ boosts discoverability with smart hashtag rotation and clear status emojis in your subject line.
+[Link][showmoji-app-link] • [Reviews][showmoji-reviews-link]
 
 [showmoji-version-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F57d31a05-0000-0000-0000-000000000000&query=latest.version&style=flat&label=version&color=brightgreen
 [showmoji-users-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F57d31a05-0000-0000-0000-000000000000&query=currentUsers&style=flat&label=users&color=blue
@@ -12,13 +12,14 @@ _ShowMoji_ boosts discoverability with smart hashtag rotation and clear status e
 [showmoji-favs-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F57d31a05-0000-0000-0000-000000000000&query=numFavorites&style=flat&label=favorites&color=red
 
 [showmoji-app-link]: https://chaturbate.com/v2apps/apps/57d31a05-showmoji
+[showmoji-reviews-link]: https://chaturbate.com/v2apps/apps/57d31a05-showmoji/reviews
 [showmoji-users-link]: https://chaturbate.com/app/57d31a05-showmoji
 
-## [FollowMeter][followmeter-app-link]
+### FollowMeter [![FollowMeter version][followmeter-version-badge]][followmeter-app-link] [![FollowMeter users][followmeter-users-badge]][followmeter-users-link] [![FollowMeter favorites][followmeter-favs-badge]][followmeter-app-link] [![FollowMeter stars][followmeter-stars-badge]][followmeter-reviews-link]
 
-[![FollowMeter version][followmeter-version-badge]][followmeter-app-link] [![FollowMeter users][followmeter-users-badge]][followmeter-users-link] [![FollowMeter favorites][followmeter-favs-badge]][followmeter-app-link] [![FollowMeter stars][followmeter-stars-badge]][followmeter-app-link]
+Live follower tracker displaying real-time follower growth during a stream.
 
-_FollowMeter_ tracks follower growth in real time.
+[Link][followmeter-app-link] • [Reviews][followmeter-reviews-link]
 
 [followmeter-version-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F4fc060e7-0000-0000-0000-000000000000&query=latest.version&style=flat&label=version&color=brightgreen
 [followmeter-users-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F4fc060e7-0000-0000-0000-000000000000&query=currentUsers&style=flat&label=users&color=blue
@@ -26,4 +27,5 @@ _FollowMeter_ tracks follower growth in real time.
 [followmeter-favs-badge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdirectory-live.cb.dev%2Fapi%2Fapp%2F4fc060e7-0000-0000-0000-000000000000&query=numFavorites&style=flat&label=favorites&color=red
 
 [followmeter-app-link]: https://chaturbate.com/v2apps/apps/4fc060e7-followmeter
+[followmeter-reviews-link]: https://chaturbate.com/v2apps/apps/4fc060e7-followmeter/reviews
 [followmeter-users-link]: https://chaturbate.com/app/4fc060e7-followmeter
