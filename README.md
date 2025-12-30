@@ -1,8 +1,9 @@
 # Hello, I’m Shabito
 
-Developer of CB-focused [apps](/cb-apps.md), [bios](/cb-bios.md) & tools.
+- **Clean and mobile-optimised [CB bios](/cb-bios.md)**
+- CB-focused [apps](/cb-apps.md) and tools
 
-Need something tailor-made? Let’s talk.
+Do you need something tailor-made? Let’s talk.
 
 ## Contact
 
