@@ -1,12 +1,5 @@
 # Hello, I’m Shabito
 
-- **Clean and mobile-optimised [CB bios](/cb-bios.md)**
-- CB-focused [apps](/cb-apps.md) and tools
-
-Do you need something tailor-made? Let’s talk.
-
-## Contact
-
 - **Email** hello@shabito.net  
 - **X / Twitter** [@byShabito](https://x.com/byshabito)  
 - **Instagram** [@by_shabito](https://instagram.com/by_shabito)  
