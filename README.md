@@ -5,7 +5,7 @@
 - **Instagram** [@by_shabito](https://instagram.com/by_shabito)  
 - **All links** [linktr.ee/shabito](https://linktr.ee/shabito)
 
-## Support
+---
 
 If you find my work useful, your support helps me keep building 💜
 
