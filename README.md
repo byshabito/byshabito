@@ -7,6 +7,6 @@
 
 ## Support
 
-If you find my work useful, consider supporting it. Your contribution helps me keep building. I appreciate your support 💜
+If you find my work useful, your support helps me keep building 💜
 
 ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/shabito) • ⚡ Bitcoin (LN) `shabito@walletofsatoshi.com`
