@@ -6,3 +6,4 @@
 - **Ema Delacroix**, [emadelacroix](https://chaturbate.com/emadelacroix)
 - **Lilith Nocturne**, [lilith_nocturne](https://chaturbate.com/lilith_nocturne)
 - **Tatiana**, [sumersunsett](https://chaturbate.com/sumersunsett)
+- **Evelyn Desire**, [evelyn_desire](https://chaturbate.com/evelyn_desire)
