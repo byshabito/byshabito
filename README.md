@@ -10,4 +10,4 @@
 
 ## Highlights
 
-- 🥈 2nd Place [Chaturbate Developer Hackathon 2026](https://devportal.cb.dev/contest/)
+- 🥈 2nd Place [Chaturbate Apps Hackathon 2026](https://devportal.cb.dev/contest/)
